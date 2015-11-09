@@ -12,3 +12,10 @@ github_username:  devincarr
 markdown: kramdown
 
 input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - LICENSE
+  - README.md
