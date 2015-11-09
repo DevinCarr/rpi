@@ -10,4 +10,5 @@ github_username:  devincarr
 
 # Build settings
 markdown: kramdown
-  input: GFM
+
+input: GFM
