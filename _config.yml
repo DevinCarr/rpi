@@ -1,6 +1,5 @@
 # Site settings
 title: Beginnings with RPi
-email: devin.carr0@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Documentation for Raspberry Pi information and installation.
 baseurl: "/rpi" # the subpath of your site, e.g. /blog/
