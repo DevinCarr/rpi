@@ -4,11 +4,11 @@ layout: page
 ---
 
 # This Document
-***
+
 This is a quick and simple tutorial to provide some basic knowledge and links to other references about the Raspberry Pi.
 
 # Beginnings
-***
+
 This part will show you how to install the Raspbian Linux image onto your Raspberry Pi.
 
 ## \# Requirements
@@ -24,7 +24,7 @@ Go to the installation page that the Raspberry Pi Foundation provides [here](htt
 Choose your respective operating system of choice for flashing the SD card on the installation page. The instructions there are nearly perfect and even have some troubleshooting tips.
 
 # Extras
-***
+
 A list of extra items and helpful topics
 
 ## \# Display
@@ -39,6 +39,6 @@ When the Pi is plugged into a router with the Ethernet port, it can be accessed 
 One of the noted issues with this configuration is that the IP address of the Raspberry Pi must be known in order to connect to it via SSH. Either static IP or router access must be needed in order to connect with the Raspberry Pi through SSH.
 
 # Links
-***
+
 - [Raspberry Pi](https://www.raspberrypi.org/)
 - [Raspbian Download](https://www.raspberrypi.org/downloads/raspbian/)

@@ -86,8 +86,6 @@
     }
 }
 
-
-
 /**
  * Site footer
  */
@@ -161,6 +159,13 @@
 /**
  * Page content
  */
+
+.pages {
+ .page-link {
+     display: block;
+     padding: 5px 10px;
+ }
+}
 .page-content {
     padding: $spacing-unit 0;
 }
@@ -200,18 +205,27 @@
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
-    line-height: 1;
+    line-height: 2;
+    text-align: center;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 30px;
     }
 }
 
 .post-content {
     margin-bottom: $spacing-unit;
 
+    h1 {
+        font-size: 36px;
+
+        @include media-query($on-laptop) {
+            font-size: 32px;
+        }
+    }
+
     h2 {
-        font-size: 32px;
+        font-size: 30px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
