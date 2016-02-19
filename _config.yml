@@ -1,7 +1,7 @@
 # Site settings
 title: Beginnings with RPi
 description: > # this means to ignore newlines until "baseurl:"
-  Documentation for Raspberry Pi information and installation.
+  Documentation for Raspberry Pi basic installation and configuration.
 baseurl: "/rpi" # the subpath of your site, e.g. /blog/
 url: "https://devincarr.com" # the base hostname & protocol for your site
 twitter_username: dev_in_space
